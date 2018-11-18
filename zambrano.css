@@ -1,0 +1,140 @@
+body {background-image: url(images/az-site-bkg.jpg);
+background-repeat:repeat-x;
+font: Helvetica, Arial, sans-serif;
+}
+#header {
+	width:auto;
+	height:40px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.style1 {color: #ce6716;}
+#name {
+	color:#ce6716;
+	letter-spacing:.15em;
+	text-transform: lowercase;
+	font: Helvetica, Arial, sans-serif;
+	float:left;
+	height:40px;
+	font-size:1.7em;
+	font-style: normal;
+	font-weight:bold;
+	margin:0 0 0 20px;
+	padding:20px 0 0 0;
+	width:inherit;
+	}
+#name a {
+	color:#ce6716;
+	letter-spacing:.15em;
+	text-transform: lowercase;
+	font: Helvetica, Arial, sans-serif;
+	float:left;
+	height:40px;
+	font-size:1.7em;
+	font-style: normal;
+	font-weight:bold;
+	margin:0 0 0 20px;
+	padding:20px 0 0 0;
+	width:inherit;
+	}
+#name a:hover {
+	color:#ce6716;
+	letter-spacing:.15em;
+	text-transform: lowercase;
+	font: Helvetica, Arial, sans-serif;
+	float:left;
+	height:40px;
+	font-size:1.7em;
+	font-style: normal;
+	font-weight:bold;
+	margin:0 0 0 20px;
+	padding:20px 0 0 0;
+	width:inherit;
+	}
+#name p {
+	line-height:1.25em;
+}
+#title {
+    color:#DDD;
+	letter-spacing:.15em;
+	text-transform: lowercase;
+	font: Helvetica, Arial, sans-serif;
+	float:left;
+	font-size:1.2em;
+	font-style: normal;
+	font-weight:normal;
+	margin:0 0 0 20px;
+	padding:0 0 0 30px;
+	width:inherit;
+	text-align:center;
+}
+#nav {
+  font: Helvetica, Arial, sans-serif;
+  color: #DDD;
+  text-align:center;
+  margin: 10px auto 10px auto;
+  padding:0;
+  height: 40px;
+  width:400px;
+  float:right;
+  }
+#nav ul {margin:0; padding:20px 0 10px 0; }
+#nav li {display:inline; padding:0; margin:0 ; text-align:right;
+  } 
+#nav li a {
+  color: #DDD;
+  letter-spacing: normal;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-transform: lowercase;
+  text-decoration:none; text-align:right; font-size: 1em;
+  }
+#nav li a:hover {
+  text-decoration:none;
+  color: #ce6716;
+  }
+#nav li a.landed {  
+  color: #ce6716}
+#footer{color: #DDD; font-size: 9px; padding: 200px 25px 0px 25px; margin:0 auto 0 auto; width:auto;}
+#footer p {margin:0; text-align:center; padding:15px 0 0 40px;}
+#videocontainer {width:100%; margin:0 auto 0 auto; height:auto; min-height:775px; padding:0;}
+#videocontainer p{line-height:1.25em; text-align:center; color:#DDD; font-size:.8em;}
+#video {width:720px; height:405px; padding:100px 0 5px 0px; margin:0px auto 0 auto;}
+#video p{line-height:1em; text-align:center; color:#DDD; font-size:.8em; padding:0;}
+#video a, a:visited {text-decoration: none; color:#ce6716;}
+.clearboth {
+   height:20px;
+}
+#sectiontext2 {
+  margin: 0;
+  padding-left:0px;
+  padding-right:25px;
+  height: auto;
+  width: 90%;  
+  font-size: .85em;
+  float: left;
+  color:#DDD;	
+  }
+#sectiontext2 p {
+  margin:0;
+  line-height: 1.4em;
+  padding-top: 8px;
+  padding-bottom: 5px;
+  color:#DDD;
+  }
+#sectiontext2 ul {margin:0 0 0 15px; padding:0 0 0 35px; color:#DDD;}
+#sectiontext2 li {margin:0; padding:0; list-style-type: square; color:#ce6716;}
+.section {	color:#DDD;
+}
+#sectiontext2 p a, a:visited {color:#ce6716; text-decoration:none;}
+#sectiontext2 p a:hover {color:#ce6716; text-decoration:underline;}
+#holder {width:900px; margin:20px auto 0 auto; height:auto; min-height:800px; padding:0;} 
+#holder a, a:visited {text-decoration: none; color:#ce6716;}
+#holder a:hover {text-decoration:underline;}
+#holder p {font-size: .95em;}
+.title {font-size:.95em; font-weight:bold; color:#DDD; margin:0; padding:0; letter-spacing:.10em;}
+.category {font-size:1.1em; font-weight:bold; color:#DDD; margin:0; padding:2px 12px 2px 12px; letter-spacing:.12em; text-transform:uppercase; background-color:#54534a }
+#contact { color:#DDD; width:100%; margin:100px auto 0 auto; height:auto; min-height:120px; padding:0px; text-align:center;}
+#contact a, a:visited {text-decoration: none; color:#ce6716;}
+#contact a:hover {text-decoration:underline;}
+#contact p {font-size: 1.25em; margin:0 auto 0 auto; padding:0;}
