@@ -1,4 +1,12 @@
-body {background-image: url(images/az-site-bkg.jpg);
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+
+      title="Wrap Long Lines">
+  </head>
+  <body>
+    <pre>body {background-image: url(images/az-site-bkg.jpg);
 background-repeat:repeat-x;
 font-family: sans-serif;
 }
@@ -140,3 +148,6 @@ font-family: sans-serif;
 #contact a, a:visited {text-decoration: none; color:#ce6716;}
 #contact a:hover {text-decoration:underline;}
 #contact p {font-size: 1.25em; margin:0 auto 0 auto; padding:0;}
+<br></pre>
+  </body>
+</html>
