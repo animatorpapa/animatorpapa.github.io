@@ -1,33 +1,29 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<title>Adrian Zambrano - Character Animator</title>
-<link href="zambrano.css" rel="stylesheet" type="text/css" />
-<style type="text/css">
-</style>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-</head>
-
-<body>
-<div id="header">
-<a href="index.html">
-<div id="name">
-  adrian zambrano </div>
-<a> 
-<div id="nav"> 
-<ul>
-<li><a href="index.html">Home</a><span class="style1">|</span></li>
-<li><a href="resume.html">Resume/CV</a><span class="style1">|</span></li>
-<li><a class="landed" href="contact.html">Contact</a></li>
-</ul>
-</div>
-</div>
-<div class="clearboth">&nbsp;</div> 
-<div id="title">
-character animator</div>
-<div id="contact"> 
-
-	<p>Email: <script language="JavaScript">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+    <title>Adrian Zambrano - Character Animator</title>
+    <link href="zambrano.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+</style> </head>
+  <body>
+    <div id="header"> <a href="index.html">
+        <div id="name"> adrian zambrano </div>
+      </a><a> </a>
+      <div id="nav"><a> </a>
+        <ul>
+          <a> </a>
+          <li><a></a><a href="index.html">Home</a><span class="style1">|</span></li>
+          <li><a href="resume.html">Resume/CV</a><span class="style1">|</span></li>
+          <li><a class="landed" href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="clearboth"> </div>
+    <div id="title"> character animator</div>
+    <div id="contact">
+      <p>Email:
+        <script language="JavaScript">
 
  
 
@@ -40,16 +36,18 @@ site = "gmail.com";
  
 
 document.write('<a href=\"mailto:' + user + '@' + site + '\">'); document.write(user + '@' + site + '</a>'); // End --> </script>
-
-	</p>
-<div class="clearboth">&nbsp;</div>
-<div class="clearboth">&nbsp;</div>
-<div class="clearboth">&nbsp;</div>
-<div class="clearboth">&nbsp;</div>
-<div class="clearboth">&nbsp;</div>
-</div>
-
-<div id="footer">
-  <p>copyright&copy; 2019</p><br /></div>
-</body>
+      </p>
+      <div id="contact2">
+        <p>Mobile: <span class="style1">(347) 459-2810 </span></p>
+      </div>
+      <div class="clearboth"> </div>
+      <div class="clearboth"> </div>
+      <div class="clearboth"> </div>
+      <div class="clearboth"> </div>
+      <div class="clearboth"> </div>
+    </div>
+    <div id="footer">
+      <p>copyright© 2024</p>
+    </div>
+  </body>
 </html>
